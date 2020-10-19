@@ -11,5 +11,3 @@
 - 💬 Ask me about <strong>Kotlin, Firebase, Room, Reactive Programming, Mobile Tech</strong>
 - ⚡ Hooper
 
-
-⭐️ From [Gokul Raja T S](https://github.com/gokulrajats)
