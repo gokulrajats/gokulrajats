@@ -1,13 +1,9 @@
 
- ### Profile Views :<br>
+ ### Profile Visits :<br>
   <img src="https://profile-counter.glitch.me/gokulrajats/count.svg" />
 
 
-### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
-
-<a  href="https://www.instagram.com/gokulraja3/">Mail Me!</a>   <a href="https://www.linkedin.com/in/gokulrajats/">   <a  href="https://medium.com/@goraa"> Blog</a>
-
-### Here are some ideas to help you get started:
+### Gokul.apply{}:
 
 - 🔭 I’m an  <strong>Full-Stack Android Engineer</strong> and <strong>Web Developer</strong>
 - 🌱 Product Engineer <strong>@Codingmart Technologies</strong>
@@ -16,4 +12,4 @@
 - ⚡ Hooper
 
 
-⭐️ From [Gokul Raja T S](https://github.com/gokulrajats# gokulrajats
+⭐️ From [Gokul Raja T S](https://github.com/gokulrajats)
