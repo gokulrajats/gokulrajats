@@ -7,7 +7,7 @@
 
  - 💡 I’m an  <strong>Full-Stack Android Engineer</strong> and <strong>Web Developer</strong>
  - 📱 Product Engineer <strong>@Codingmart Technologies</strong>
- - 🔍 Let's join for  <strong>Android and a cup of coffee</strong>
+ - 🔍 Let's discuss  <strong>Android</strong> grabbing a cup of <strong>coffee</strong>
  - 💬 Ask me about <strong>Kotlin, Firebase, Room, Reactive Programming, Mobile Tech</strong>
  - 🏀 Hooper
 
