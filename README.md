@@ -2,4 +2,4 @@
  ### Profile Visits :<br>
   <img src="https://profile-counter.glitch.me/gokulrajats/count.svg" />
 
- - 💡<strong>Android Engineer</strong>
+ - <strong>Android Developer</strong>
